@@ -13,3 +13,11 @@ List of covered topics in Homeworks based on course plane:
 
 - Homework #4
 > Convolutional Neural Network(CNN), Transfer Learning, Residual Connection, ResNet, DenseNet, Kernel visualization, Inception module, Vanishing gradient, Exploding gradient
+
+- Homework #5
+> Autoencoders, Recurrent neural network, Anomaly detection, Data windowing
+
+- Homework #6
+> Long short-term memory(LSTM), Gated recurrent units (GRUs) , Sentiment analysis, Convolutional Neural Network(CNN), Word embedding
+
+
