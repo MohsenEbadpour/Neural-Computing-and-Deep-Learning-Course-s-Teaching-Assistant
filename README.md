@@ -20,4 +20,10 @@ List of covered topics in Homeworks based on course plane:
 - Homework #6
 > Long short-term memory(LSTM), Gated recurrent units (GRUs) , Sentiment analysis, Convolutional Neural Network(CNN), Word embedding
 
+- Homework #7
+> Generative Adversarial Network, Conditional Generative Adversarial Network, Mode Collapse , Diminished gradient
+
+- Homework #8
+> Transformer Network, Sentiment analysis, BERT, Self-Attention, Cross-Attention
+
 
