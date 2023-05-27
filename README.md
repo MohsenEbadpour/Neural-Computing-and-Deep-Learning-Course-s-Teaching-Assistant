@@ -4,23 +4,19 @@ In the Fall of 2022 and Spring of 2023, I was the teaching assistant for the Neu
 --- 
 
 
-## List of covered topics in projects are as follows in Spring 2022:
+## List of covered topics in projects are as follows in Spring 2023:
 - ### Homework #1
-> Adaline Neuron, Perceptron Neuron, Classification with single Neuron, Second-Order Neurons
+>  Perceptron neuron training, Linear & non-linear separability concepts
 - ### Homework #2
-> Multilayer perceptron, Training the neural network, Activation functions, Batch based updating rule, Preprocessing, Outlier detection, Overfitting, Generalization
+> Neural network pruning, Multilayer perceptron, Training the neural network, Nonlinearity, Overfitting, Generalization
 - ### Homework #3
-> Self-organizing map, Surface Reconstruction, Clustering, U-Matrix
+> Optimization in neural networks, Convergence, Stochastic gradient descent, Adam, Momentum, Learning rate
 - ### Homework #4
-> Convolutional Neural Network(CNN), Transfer Learning, Residual Connection, ResNet, DenseNet, Kernel visualization, Inception module, Vanishing gradient, Exploding gradient
+> Feature space transformation, Unsupervised transformation, Self-organizing map
 - ### Homework #5
-> Autoencoders, Recurrent neural network, Anomaly detection, Data windowing
+> Time-Series classification, Bitcoin candle prediction, Recurrent neural networks, Long short-term memory(LSTM), Gated recurrent units (GRUs), Feature engineering in time-series, Bollinger Bands, Relative Strength Index(RSI)
 - ### Homework #6
-> Long short-term memory(LSTM), Gated recurrent units (GRUs) , Sentiment analysis, Convolutional Neural Network(CNN), Word embedding
-- ### Homework #7
-> Generative Adversarial Network, Conditional Generative Adversarial Network, Mode Collapse , Diminished gradient
-- ### Homework #8
-> Transformer Network, Sentiment analysis, BERT, Self-Attention, Cross-Attention
+> Image-to-image translation, Generative adversarial networks (GANs), CylceGAN, Image Augmentation
 
 
 --- 
