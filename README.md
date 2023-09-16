@@ -4,7 +4,7 @@ In the Fall of 2022 and Spring of 2023, I was the teaching assistant for the Neu
 --- 
 
 
-## List of covered topics in projects are as follows in <u>Spring 2023<u>:
+## List of covered topics in projects are as follows in <ins>Spring 2023</ins>:
 - ### Homework #1
 >  Perceptron neuron training, Linear & non-linear separability concepts
 
@@ -29,10 +29,13 @@ In the Fall of 2022 and Spring of 2023, I was the teaching assistant for the Neu
 - ### Homework #8
 > Encoder-Decoder, Image Captioning, Transfer Learning, Word Embedding 
 
+
+
 --- 
 
 
-## List of covered topics in projects are as follows in <u>Fall 2022</u>:
+
+## List of covered topics in projects are as follows in <ins>Fall 2022</ins>:
 - ### Homework #1
 > Adaline Neuron, Perceptron Neuron, Classification with single Neuron, Second-Order Neurons
 
