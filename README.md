@@ -1,8 +1,8 @@
 # Neural Computing and Deep Learning Course's Teaching Assistant
-In the Fall of 2022 and Spring of 2023, I was the teaching assistant for the Neural Computing and Deep Learning course held at **[Amirkabir University of Technology(AUT)](https://aut.ac.ir/en)** by **[Prof. Safabakhsh](https://scholar.google.com/citations?user=zFsdqo8AAAAJ&hl=en)**. My responsibilities included project definition, question designing, and grading based on reports of students and their presentation.
+In the Fall of 2022, Spring of 2023 and Spring of 2024, I was the teaching assistant for the Neural Computing and Deep Learning course held at **[Amirkabir University of Technology(AUT)](https://aut.ac.ir/en)** by **[Prof. Safabakhsh](https://scholar.google.com/citations?user=zFsdqo8AAAAJ&hl=en)**. My responsibilities included project definition, question designing, and grading based on reports of students and their presentation.
 
 --- 
-
+<!-- 
 
 ## List of covered topics in projects are as follows in <ins>Spring 2023</ins>:
 - ### Homework #1
@@ -61,3 +61,4 @@ In the Fall of 2022 and Spring of 2023, I was the teaching assistant for the Neu
 > Transformer Network, Sentiment analysis, BERT, Self-Attention, Cross-Attention
 
 
+-->

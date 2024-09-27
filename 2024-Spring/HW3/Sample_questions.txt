@@ -1,0 +1,16 @@
+sample_questions = [
+                        "Who won the 2022 soccer world cup?",
+                        "When did Sweden join NATO?",
+                        "Who joined NATO in 2023?",
+                        "Who joined NATO in 2024?",
+                        "Which is the 31st member of NATO?",
+                        "Which is the 32nd member of NATO?",
+                        "Who won the Cricket World Cup in 2023?",
+                        "Who defeated India in Cricket World Cup final in 2023?",
+                        "Name the former prime minister of Japan that was assassinated in 2022?",
+                        "When did Chandrayaan-3 land near the south pole of the Moon?",
+                        "Where did Chandrayaan-3 land on the Moon?",
+                        "Who acquired Twitter in 2022?",
+                        "Who owns Twitter?",
+                        "Who acquired Activision Blizzard in 2023?"
+                   ]
